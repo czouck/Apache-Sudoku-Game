@@ -7,6 +7,7 @@ Steps to install and configure:
 4. Remove any pre-existing files in this directory
 5. Move the downloaded files into this directory using the mv command
    The syntax for this is: mv /path to file /path to current directory.
-6. Run the command systemctl reload apache2 (if apache is already started)
-7. If apache is not already started, run: systemctl start apache2
-8. In your browser navigate to localhost or your machines ip address and enjoy the game.
+   for the america.jpeg file, first create /var/www/html/images, then move the image file into this directory using the same mv command
+7. Run the command systemctl reload apache2 (if apache is already started)
+8. If apache is not already started, run: systemctl start apache2
+9. In your browser navigate to localhost or your machines ip address and enjoy the game.
