@@ -1,4 +1,9 @@
 # Apache-Sudoku-Game
+Colin Zouck
+Utica University
+CSC 325
+Senior
+Shah
 This reposiory is for an apache sudoku game, designed to be hosted locally and played on a browser via localhost.
 Steps to install and configure:
 1. Before downloading this project, install apache on your Ubuntu system with the command apt-install apache2
